@@ -16,7 +16,9 @@ Before you can run this application, ensure you have the following installed:
 
 ## Installation
 Clone the Repository:
+
 $ Bash
+
 **git clone https://github.com/Ansh420/boolean-yes_no-question-using-nlp-t5.git**
 
 
@@ -30,13 +32,13 @@ $ Bash
 
 Run the training script:
 Bash
-$ python train.py --data_file data.csv
+python train.py --data_file data.csv
 
  -The trained model will be saved in the models directory.
 # Start the Streamlit App:
 
 Bash
- - streamlit run app.py
+- streamlit run app.py
 - Open your web browser and navigate to http://localhost:8501/.
 
   
