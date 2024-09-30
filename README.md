@@ -32,14 +32,14 @@ $ Bash
 
 Run the training script:
 Bash
-python train.py --data_file data.csv
+python **train.py** --data_file **data.csv**
 
  -The trained model will be saved in the models directory.
 # Start the Streamlit App:
 
 Bash
-- streamlit run app.py
-- Open your web browser and navigate to http://localhost:8501/.
+- streamlit run **app.py**
+- Open your web browser and navigate to **http://localhost:8501/**.
 
   
 ## How the Application Works
