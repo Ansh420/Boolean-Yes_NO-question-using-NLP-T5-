@@ -49,4 +49,4 @@ Bash
 - **Output**: The application displays the predicted answer (yes or no) to the user.
   
 ## Deployment
-You can deploy this application to a cloud platform like Heroku or AWS for wider accessibility. Follow the specific deployment instructions for your chosen platform.
+You can deploy this application to a cloud platform like **Heroku or AWS** for wider accessibility. Follow the specific deployment instructions for your chosen platform.
