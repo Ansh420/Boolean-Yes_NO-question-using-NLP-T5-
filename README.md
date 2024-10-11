@@ -1,7 +1,7 @@
 # Boolean-Yes_NO-question-using-NLP-T5-
 
 ## Project Overview
-This repository contains a Python application built using NLP and the T5 transformer model to answer yes/no questions. The application takes a question as input and provides a boolean response (yes or no) based on its understanding of the query.
+This repository contains a Python application built using NLP and the T5 transformer model to answer **yes/no** questions. The application takes a question as input and provides a **boolean response** (yes or no) based on its understanding of the query.
 
 ## Prerequisites
 Before you can run this application, ensure you have the following installed:
