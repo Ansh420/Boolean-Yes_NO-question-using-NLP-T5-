@@ -24,7 +24,7 @@ Before you can run this application, ensure you have the following installed:
 ## Train the Model:
 
 Run the training script:
-Bash
+**Bash**
 python **train.py** --data_file **data.csv**
 
  -The trained model will be saved in the models directory.
