@@ -14,13 +14,6 @@ Before you can run this application, ensure you have the following installed:
 - pandas
 - numpy
 
-## Installation
-Clone the Repository:
-
-$ Bash
-
-**git clone https://github.com/Ansh420/boolean-yes_no-question-using-nlp-t5.git**
-
 
 ## Usage
 **Prepare Your Data**:
