@@ -18,7 +18,7 @@ Before you can run this application, ensure you have the following installed:
 ## Usage
 **Prepare Your Data**:
 
-- Create a CSV file (e.g., data.csv) with two columns: question and answer.
+- Create a **CSV** file (e.g., data.csv) with two columns: question and answer.
 - Populate the file with your question-answer pairs.
 
 ## Train the Model:
@@ -39,7 +39,7 @@ Bash
 - **Input**: The user enters a question in the Streamlit interface.
 - **Preprocessing**: The question is tokenized and converted into a format suitable for the T5 model.
 - **Inference**: The T5 model processes the input and generates a predicted answer.
-- **Output**: The application displays the predicted answer (yes or no) to the user.
+- **Output**: The application displays the predicted answer **(yes or no)** to the user.
   
 ## Deployment
 You can deploy this application to a cloud platform like **Heroku or AWS** for wider accessibility. Follow the specific deployment instructions for your chosen platform.
