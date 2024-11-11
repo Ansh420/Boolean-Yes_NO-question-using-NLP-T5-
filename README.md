@@ -9,10 +9,10 @@ Before you can run this application, ensure you have the following installed:
 - **Python**: Version 3.6 or later
 
 ## Required Libraries:
-- transformers
-- streamlit
-- pandas
-- numpy
+- transformers.
+- streamlit.
+- pandas.
+- numpy.
 
 
 ## Usage
