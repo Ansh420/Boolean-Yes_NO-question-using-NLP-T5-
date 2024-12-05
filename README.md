@@ -6,7 +6,7 @@ This repository contains a Python application built using **NLP** and the **T5 t
 ## Prerequisites
 Before you can run this application, ensure you have the following installed:
 
-- **Python**: Version 3.6 or later
+- **Python**: Version 3.6 or later 
 
 ## Required Libraries:
 - Transformers.
